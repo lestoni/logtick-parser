@@ -12,7 +12,7 @@
 
 Sample log ->`./log.txt`
 
-```
+```js
   const logtickParser = require('logtick-parser');
 
   let tokens = logtickParser(gitlog);
