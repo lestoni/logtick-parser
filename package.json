@@ -1,0 +1,25 @@
+{
+  "name": "logtick-parser",
+  "version": "1.0.0",
+  "description": "Fuller Git Log Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lestoni/logtick-parser.git"
+  },
+  "keywords": [
+    "git",
+    "log",
+    "parser",
+    "tokenizer"
+  ],
+  "author": "Tony Mutai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/logtick-parser/issues"
+  },
+  "homepage": "https://github.com/lestoni/logtick-parser#readme"
+}
