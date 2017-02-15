@@ -1,0 +1,27 @@
+commit 2caf52e4167f1fb9349a7030b993840270175cb7
+Author:     Tony Mutai <tonnimutai@gmail.com>
+AuthorDate: Wed Feb 12 13:59:06 2017 +0300
+Commit:     Tony Mutai <tonnimutai@gmail.com>
+CommitDate: Wed Feb 12 13:59:06 2017 +0300
+
+    more stuff
+---
+ app.js   | 2 ++
+ index.js | 1 +
+ 2 files changed, 3 insertions(+)
+
+diff --git a/app.js b/app.js
+new file mode 100644
+index 0000000..c988169
+--- /dev/null
++++ b/app.js
+@@ -0,0 +1,2 @@
++console.log('shebang bang!');
++
+diff --git a/index.js b/index.js
+new file mode 100644
+index 0000000..4b2e663
+--- /dev/null
++++ b/index.js
+@@ -0,0 +1 @@
++console.log('test!')
